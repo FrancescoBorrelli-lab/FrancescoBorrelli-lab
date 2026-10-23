@@ -21,8 +21,8 @@ Mi interessano le app che si usano volentieri: interfacce curate, buone prestazi
 | Progetto | Cosa fa | Stato |
 | --- | --- | --- |
 | [**FieldSync Pro**](https://github.com/FrancescoBorrelli-lab/fieldsync-pro) | App Flutter offline-first per gli interventi tecnici sul campo, con sincronizzazione automatica (Isar, Riverpod, Node.js) | Sviluppata |
-| **InventoryWise AI** | Magazzino intelligente con scansione AI di bolle e scaffali, analisi predittiva e chat | In progettazione |
-| **SchedulaX** | Prenotazioni con dashboard web e app mobile da un'unica codebase Flutter | In progettazione |
+| [**InventoryWise AI**](https://github.com/FrancescoBorrelli-lab/inventorywise-ai) | Magazzino intelligente con scansione AI di bolle e scaffali, analisi predittiva e chat | In sviluppo: base funzionante con dati di esempio |
+| [**SchedulaX**](https://github.com/FrancescoBorrelli-lab/schedulax) | Prenotazioni con dashboard web e app mobile da un'unica codebase Flutter | In sviluppo: base funzionante con dati di esempio |
 
 Il racconto completo di ogni progetto, con problema, soluzione e scelte tecniche, è nei [casi studio](https://borrellifrancesco.dev/casi-studio).
 
